@@ -1,0 +1,365 @@
+Performance Statistics   2012-02-21 00:09:20 - 2012-02-21 00:09:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             518.4         103         940       275.2           5
+secondBlock                                            881.0          24        1930       758.9           5
+
+Performance Statistics   2012-02-21 00:09:30 - 2012-02-21 00:09:40
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             510.2          54         980       347.5           6
+secondBlock                                           1117.8          81        1766       576.3           6
+
+Performance Statistics   2012-02-21 00:09:40 - 2012-02-21 00:09:50
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             437.7         125         968       298.4           7
+secondBlock                                           1065.0           0        1978       674.1           7
+
+Performance Statistics   2012-02-21 00:09:50 - 2012-02-21 00:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             446.4          97         924       292.8           7
+secondBlock                                           1127.2         291        1881       657.2           6
+
+Performance Statistics   2012-02-21 00:10:00 - 2012-02-21 00:10:10
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             417.7         159         636       149.4           6
+secondBlock                                           1049.1         242        1804       478.6           7
+
+Performance Statistics   2012-02-21 00:10:10 - 2012-02-21 00:10:20
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             613.6          36         904       284.4           7
+secondBlock                                            960.7          73        1780       607.3           6
+
+Performance Statistics   2012-02-21 00:10:20 - 2012-02-21 00:10:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             692.4         482         830       126.4           5
+secondBlock                                           1314.0         754        1726       320.6           5
+
+Performance Statistics   2012-02-21 00:10:30 - 2012-02-21 00:10:40
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             696.4         605         774        71.5           5
+secondBlock                                           1193.0         192        1886       617.7           6
+
+Performance Statistics   2012-02-21 00:10:40 - 2012-02-21 00:10:50
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             572.8           4         919       358.3           6
+secondBlock                                            955.3         450        1539       390.0           6
+
+Performance Statistics   2012-02-21 00:10:50 - 2012-02-21 00:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             379.6          83         695       219.4           8
+secondBlock                                            830.3          89        1225       347.6           8
+
+Performance Statistics   2012-02-21 00:11:00 - 2012-02-21 00:11:10
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             643.1         384         907       199.9           8
+secondBlock                                            654.3          72        1436       403.8           8
+
+Performance Statistics   2012-02-21 00:11:10 - 2012-02-21 00:11:20
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             428.4          29         952       297.4           9
+secondBlock                                            719.4          40        1776       606.7           9
+
+Performance Statistics   2012-02-21 00:11:20 - 2012-02-21 00:11:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             579.6         222         952       244.4           5
+secondBlock                                           1292.2         775        1790       404.8           5
+
+Performance Statistics   2012-02-21 00:11:30 - 2012-02-21 00:11:40
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             531.3         167         806       219.0           7
+secondBlock                                           1019.4           7        1778       627.2           7
+
+Performance Statistics   2012-02-21 00:11:40 - 2012-02-21 00:11:50
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             331.3         139         593       157.3           8
+secondBlock                                            807.3          91        1674       541.5           8
+
+Performance Statistics   2012-02-21 00:11:50 - 2012-02-21 00:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             394.8         119         719       196.0           9
+secondBlock                                            774.1          88        1534       484.2           9
+
+Performance Statistics   2012-02-21 00:12:00 - 2012-02-21 00:12:10
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             706.4         409         939       189.9           7
+secondBlock                                            704.1         192        1328       392.2           7
+
+Performance Statistics   2012-02-21 00:12:10 - 2012-02-21 00:12:20
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             460.4          14         884       304.1           8
+secondBlock                                            845.3         125        1483       437.0           7
+
+Performance Statistics   2012-02-21 00:12:20 - 2012-02-21 00:12:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             507.2          85         953       343.1           6
+secondBlock                                            994.6         473        1612       391.5           7
+
+Performance Statistics   2012-02-21 00:12:30 - 2012-02-21 00:12:40
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             682.0         248         982       253.2           5
+secondBlock                                           1611.5        1317        1827       200.6           4
+
+Performance Statistics   2012-02-21 00:12:40 - 2012-02-21 00:12:50
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             494.0         115         896       259.6           6
+secondBlock                                           1001.9         249        1923       641.4           7
+
+Performance Statistics   2012-02-21 00:12:50 - 2012-02-21 00:13:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             758.2         244         941       259.7           5
+secondBlock                                           1328.8         482        1982       561.3           5
+
+Performance Statistics   2012-02-21 00:13:00 - 2012-02-21 00:13:10
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             453.5         162         961       253.4           6
+secondBlock                                           1304.7         650        1738       470.7           6
+
+Performance Statistics   2012-02-21 00:13:10 - 2012-02-21 00:13:20
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             466.9         137         919       329.4           7
+secondBlock                                            934.7          13        1875       661.0           7
+
+Performance Statistics   2012-02-21 00:13:20 - 2012-02-21 00:13:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             594.2         308         983       237.9           6
+secondBlock                                            965.0         171        1597       497.3           6
+
+Performance Statistics   2012-02-21 00:13:30 - 2012-02-21 00:13:40
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             573.3         163         924       250.5           7
+secondBlock                                            934.1          37        1812       596.0           7
+
+Performance Statistics   2012-02-21 00:13:40 - 2012-02-21 00:13:50
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             668.7         396         860       168.2           6
+secondBlock                                           1091.7          88        1976       626.7           6
+
+Performance Statistics   2012-02-21 00:13:50 - 2012-02-21 00:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             652.3         387         887       164.0           6
+secondBlock                                            814.7         149        1330       415.8           6
+
+Performance Statistics   2012-02-21 00:14:00 - 2012-02-21 00:14:10
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             453.4          82         911       272.4           9
+secondBlock                                            730.8          34        1606       545.3           8
+
+Performance Statistics   2012-02-21 00:14:10 - 2012-02-21 00:14:20
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             305.6          31         779       253.7           8
+secondBlock                                            833.7         234        1730       492.2           9
+
+Performance Statistics   2012-02-21 00:14:20 - 2012-02-21 00:14:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             510.3          74         837       276.2           7
+secondBlock                                           1049.9         448        1801       463.8           7
+
+Performance Statistics   2012-02-21 00:14:30 - 2012-02-21 00:14:40
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             480.2         182         842       217.7           6
+secondBlock                                           1084.5         325        1967       625.6           6
+
+Performance Statistics   2012-02-21 00:14:40 - 2012-02-21 00:14:50
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             445.8          79         913       337.3           6
+secondBlock                                           1302.0         858        1665       254.8           6
+
+Performance Statistics   2012-02-21 00:14:50 - 2012-02-21 00:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             390.1          21         791       287.0           8
+secondBlock                                            922.6         110        1782       636.1           8
+
+Performance Statistics   2012-02-21 00:15:00 - 2012-02-21 00:15:10
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             415.2          38         837       311.2           5
+secondBlock                                           1506.6        1316        1727       163.6           5
+
+Performance Statistics   2012-02-21 00:15:10 - 2012-02-21 00:15:20
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             266.7           4         484       193.3           6
+secondBlock                                           1249.0         510        1619       425.7           6
+
+Performance Statistics   2012-02-21 00:15:20 - 2012-02-21 00:15:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             663.0         237         959       274.4           6
+secondBlock                                           1110.2         569        1894       396.9           6
+
+Performance Statistics   2012-02-21 00:15:30 - 2012-02-21 00:15:40
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             507.7           2         908       357.5           7
+secondBlock                                            828.9          15        1920       680.5           7
+
+Performance Statistics   2012-02-21 00:15:40 - 2012-02-21 00:15:50
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             478.5         238         943       219.2           8
+secondBlock                                            828.4          53        1905       671.1           8
+
+Performance Statistics   2012-02-21 00:15:50 - 2012-02-21 00:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             432.2          61         894       235.7          10
+secondBlock                                            541.2           5        1802       527.4          10
+
+Performance Statistics   2012-02-21 00:16:00 - 2012-02-21 00:16:10
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             341.0          26         750       217.9          10
+secondBlock                                            738.6          58        1715       492.8          10
+
+Performance Statistics   2012-02-21 00:16:10 - 2012-02-21 00:16:20
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             507.2         318         756       183.5           6
+secondBlock                                           1169.4         505        1854       431.8           5
+
+Performance Statistics   2012-02-21 00:16:20 - 2012-02-21 00:16:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             646.0         212         943       273.0           8
+secondBlock                                            675.8          76        1847       666.5           9
+
+Performance Statistics   2012-02-21 00:16:30 - 2012-02-21 00:16:40
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             407.1          37         976       277.7           8
+secondBlock                                            788.0         104        1871       696.0           7
+
+Performance Statistics   2012-02-21 00:16:40 - 2012-02-21 00:16:50
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             576.9         211         987       301.1           7
+secondBlock                                            901.1         148        1682       565.6           8
+
+Performance Statistics   2012-02-21 00:16:50 - 2012-02-21 00:17:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             560.8         207         991       299.2           6
+secondBlock                                            926.5         365        1991       603.2           6
+
+Performance Statistics   2012-02-21 00:17:00 - 2012-02-21 00:17:10
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             536.0         120         861       277.4           7
+secondBlock                                            984.9         395        1803       422.4           7
+
+Performance Statistics   2012-02-21 00:17:10 - 2012-02-21 00:17:20
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             475.4         128         943       276.2           7
+secondBlock                                            927.1          64        1705       460.6           7
+
+Performance Statistics   2012-02-21 00:17:20 - 2012-02-21 00:17:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             452.4          29         985       349.0           8
+secondBlock                                            812.0         126        1690       495.1           7
+
+Performance Statistics   2012-02-21 00:17:30 - 2012-02-21 00:17:40
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             264.9          50         708       204.5           7
+secondBlock                                           1095.1         303        1589       425.6           8
+
+Performance Statistics   2012-02-21 00:17:40 - 2012-02-21 00:17:50
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             577.6          63         939       352.9           7
+secondBlock                                            891.4         179        1834       723.3           7
+
+Performance Statistics   2012-02-21 00:17:50 - 2012-02-21 00:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             582.6          92         971       314.3           8
+secondBlock                                            667.3         101        1183       408.4           8
+
+Performance Statistics   2012-02-21 00:18:00 - 2012-02-21 00:18:10
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             602.8         103         933       290.6           5
+secondBlock                                           1254.4         270        1752       529.6           5
+
+Performance Statistics   2012-02-21 00:18:10 - 2012-02-21 00:18:20
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             701.3         296         972       260.4           6
+secondBlock                                           1014.5         505        1685       349.4           6
+
+Performance Statistics   2012-02-21 00:18:20 - 2012-02-21 00:18:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             543.6         138         940       266.4           7
+secondBlock                                            991.1         273        1958       742.9           7
+
+Performance Statistics   2012-02-21 00:18:30 - 2012-02-21 00:18:40
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             611.6         100         988       288.2           5
+secondBlock                                           1305.0         540        1829       422.6           5
+
+Performance Statistics   2012-02-21 00:18:40 - 2012-02-21 00:18:50
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             406.4          67         665       205.4           7
+secondBlock                                           1125.3          25        1810       599.4           6
+
+Performance Statistics   2012-02-21 00:18:50 - 2012-02-21 00:19:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             725.6         430         966       213.0           5
+secondBlock                                           1222.0         178        1971       668.5           5
+
+Performance Statistics   2012-02-21 00:19:00 - 2012-02-21 00:19:10
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             295.4          39         783       236.4           8
+secondBlock                                            954.3         188        1838       561.6           9
+
+Performance Statistics   2012-02-21 00:19:10 - 2012-02-21 00:19:20
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             610.9         368         811       152.9           7
+secondBlock                                            804.2         117        1939       708.1           6
+
+Performance Statistics   2012-02-21 00:19:20 - 2012-02-21 00:19:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             598.3         225         943       260.2           7
+secondBlock                                            784.1         113        1332       433.1           8
+
+Performance Statistics   2012-02-21 00:19:30 - 2012-02-21 00:19:40
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             623.2         357         931       208.4           5
+secondBlock                                           1300.6         651        1804       439.8           5
+
+Performance Statistics   2012-02-21 00:19:40 - 2012-02-21 00:19:50
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             529.5          70         969       301.1           8
+secondBlock                                            825.1          25        1705       490.2           7
+
+Performance Statistics   2012-02-21 00:19:50 - 2012-02-21 00:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             723.0         408         857       184.0           4
+secondBlock                                           1479.8        1078        1884       291.9           5
+
+Performance Statistics   2012-02-21 00:20:00 - 2012-02-21 00:20:10
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             735.3         365         928       229.3           4
+secondBlock                                           1722.0        1398        1970       232.8           4
+
+Performance Statistics   2012-02-21 00:20:10 - 2012-02-21 00:20:20
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             492.7          43         943       312.7           7
+secondBlock                                           1043.0         206        1977       663.9           6
+
+Performance Statistics   2012-02-21 00:20:20 - 2012-02-21 00:20:30
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             511.7         123         872       301.8           6
+secondBlock                                            980.6         247        1819       525.6           7
+
+Performance Statistics   2012-02-21 00:20:30 - 2012-02-21 00:20:40
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             524.1         243         869       196.9           7
+secondBlock                                           1071.4         428        1543       454.5           7
+
+Performance Statistics   2012-02-21 00:20:40 - 2012-02-21 00:20:50
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             746.3         614         886       107.4           4
+secondBlock                                           1489.0        1300        1743       176.5           4
+
+Performance Statistics   2012-02-21 00:20:50 - 2012-02-21 00:21:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             643.9           8         934       310.3           7
+secondBlock                                            963.3          31        1802       713.7           7
+
+Performance Statistics   2012-02-21 00:21:00 - 2012-02-21 00:21:10
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             447.0          90         841       241.0           8
+secondBlock                                            717.1          10        1632       463.7           8
+
+Performance Statistics   2012-02-21 23:27:40 - 2012-02-21 23:27:50
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             608.6         116         976       301.5           5
+secondBlock                                           1143.6         483        1725       470.5           5
+
+Performance Statistics   2012-02-21 23:27:50 - 2012-02-21 23:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+firstBlock                                             445.3          59         964       298.3           9
+secondBlock                                            607.6          49        1476       474.4           8
+

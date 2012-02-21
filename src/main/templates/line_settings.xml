@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings> 
+  <data_type>csv</data_type>
+  
+  <labels> 
+    <label lid="0">
+      <x></x>
+      <y>20</y>
+      <width>520</width>
+      <align>center</align>
+      <text_color></text_color> 
+      <text_size></text_size>
+      <text> 
+        <![CDATA[<b>Historical Crude Oil Prices</b>]]>
+      </text>        
+    </label>    
+  
+  </labels>
+  
+  <graphs>
+    <graph gid="1">                                      
+      <axis>left</axis>
+      <title>Mean</title> 
+      <color>#FFCC00</color>
+    </graph>
+    
+    <graph gid="2">                                                            
+      <axis>left</axis>
+      <title>Max</title>              
+      <color>#999999</color>
+    </graph>
+  </graphs>  
+
+</settings>
